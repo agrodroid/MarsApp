@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarsApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mars_app">Mars App</string>
+    <string name="show_all">Show all</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="rent">Rent</string>
+</resources>
