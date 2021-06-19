@@ -1,5 +1,8 @@
 # MarsApp
 Android app showing places available for sale or rent in Mars along with pictures of the plots. 
+
+<img src="https://github.com/agrodroid/MarsApp/blob/new-branch/Mars.png?raw=true" width="30%">
+
 ## Features
 
 - 100% Kotlin
@@ -8,10 +11,7 @@ Android app showing places available for sale or rent in Mars along with picture
 - Single activity multiple fragments pattern
 - Buy/rent indicator
 - Jetpack libraries used
-
-  
-<img src="https://github.com/agrodroid/MarsApp/blob/new-branch/Mars.png?raw=true" width="30%">
-
+- Can filter results
     
 ## Screenshots
 <img src="https://github.com/agrodroid/MarsApp/blob/new-branch/mars1.jpg?raw=true" width="30%">
